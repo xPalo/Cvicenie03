@@ -40,9 +40,9 @@ public class Student {
     public Student()
     {
         this.id = 0;
-        this.meno = "meno";
-        this.priezvisko = "priezvisko";
-        this.vek = 99;
+        this.meno = "Default";
+        this.priezvisko = "Default";
+        this.vek = 0;
     }
     public Student(int id, String meno, String priezvisko, int vek)
     {
