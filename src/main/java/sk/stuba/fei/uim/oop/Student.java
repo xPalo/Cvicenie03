@@ -54,6 +54,6 @@ public class Student {
 
     public void getInfo()
     {
-        System.out.println("Student "+ this.meno + this.priezvisko + "ma " + this.vek + "rokov a ID: " + this.id);
+        System.out.println("Student "+ this.meno + " " + this.priezvisko + " ma " + this.vek + " rokov a ID: " + this.id);
     }
 }

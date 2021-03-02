@@ -5,5 +5,8 @@ public class Main {
     {
         Student Adam = new Student(104554, "Adam", "Palo", 21);
         Adam.getInfo();
+
+        Student Default = new Student();
+        Default.getInfo();
     }
 }
