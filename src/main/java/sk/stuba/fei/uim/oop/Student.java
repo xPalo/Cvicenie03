@@ -42,7 +42,7 @@ public class Student {
         this.id = 0;
         this.meno = "Default";
         this.priezvisko = "Default";
-        this.vek = 0;
+        this.vek = 99;
     }
     public Student(int id, String meno, String priezvisko, int vek)
     {
